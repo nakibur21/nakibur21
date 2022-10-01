@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nakibur21
-- 👀 I’m interested in coding and coffee.
+- 👀 Good ideas inspire me
 - 🌱 I’m currently learning SystemVerilog, UVM and C++
 - 💞️ I’m looking to collaborate on SystemVerilog verification projects
 - 📫 Best way to reach me is through email
